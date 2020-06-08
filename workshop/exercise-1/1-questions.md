@@ -26,10 +26,13 @@ This is important so that a variety of people with different abilities can acces
 ## Q3 - For each of the following cases, which tags will be needed?
 
 a) You want to create a webpage with the photos from your latest vacation
+'h1', 'body', 'img', 'aside' 
 
 b) You want to create a website that lists all the art gallery websites in your city and links to their website.
+'h1', 'h2','body', 'ul', 'a'
 
 c) You want to sell designer hats. You need to receive orders from the user.
+'h1', 'h2', 'h3', 'body', 'ul', 'img', 'a', 'form', 'input', 'button'
 
 ## Q4 - Can a `button` be a child of a `button`? Explain your reasoning
 
