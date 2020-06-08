@@ -64,6 +64,8 @@ g) `td` table data
 
 ## Q8 - What is the difference between td and th?
 
+'td' and 'th' both represent table cells, but 'td' is general table data and 'th' is the head of a column of data 
+
 ## Q9 - Which tag makes the text appear bigger: h1 or h3?
 
 ## Q10 - In which situation can you use self closing tags?
