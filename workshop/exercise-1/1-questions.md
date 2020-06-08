@@ -89,3 +89,5 @@ src: to pinpoint the location of the image on the internet
 alt: to describe the image in case it fails to load and to improve accessibility for visually-impaired folks
 
 ## Q13 - Which attribute is always present for an anchor tag?
+
+href: to indicate the destination address for the link
