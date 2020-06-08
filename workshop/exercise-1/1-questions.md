@@ -73,6 +73,8 @@ trick question? you should format the size in css, not in html!
 
 ## Q10 - In which situation can you use self closing tags?
 
+If the element does not have any children, you can use self closing tags
+
 ## Q11 - What is autofilling and why is it important?
 
 ## Q12 - Which attributes are always present in an img element?
