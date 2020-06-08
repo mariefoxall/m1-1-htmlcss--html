@@ -18,7 +18,10 @@ c) [false] `<ul></ul><img/><ol><li>one</li></ol>`
 
 ## Q2 - What is a screenreader and why should we care about them?
 
-_Feel free to use the powers of Google here, but please provide link(s) to your source(s)_
+A screenreader is an assistive technology that provides a text-to-speech option for visually impaired users. It "reads" the text so that it can be experienced through speakers or braille. 
+https://www.codecademy.com/articles/how-to-setup-screen-reader
+
+This is important so that a variety of people with different abilities can access the information on a website without losing critical data or getting lost in the organization of the data.
 
 ## Q3 - For each of the following cases, which tags will be needed?
 
