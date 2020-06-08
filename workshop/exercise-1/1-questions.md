@@ -36,6 +36,8 @@ c) You want to sell designer hats. You need to receive orders from the user.
 
 ## Q4 - Can a `button` be a child of a `button`? Explain your reasoning
 
+No, because a button's descendant can't be a clickable element - and the button itself is a clickable element.
+
 ## Q5 - What is the most generic tag you can use?
 
 ## Q6 - What do the following achronyms stand for?
