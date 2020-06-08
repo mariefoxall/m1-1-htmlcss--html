@@ -60,6 +60,8 @@ g) `td` table data
 
 ## Q7 - Usually, `td` elements are children of what kind of elements?
 
+'tr' elements
+
 ## Q8 - What is the difference between td and th?
 
 ## Q9 - Which tag makes the text appear bigger: h1 or h3?
