@@ -77,6 +77,12 @@ If the element does not have any children, you can use self closing tags
 
 ## Q11 - What is autofilling and why is it important?
 
+Autofilling allows the browser to predict the value of an input inside a form.
+(https://www.w3schools.com/tags/att_autocomplete.asp#:~:text=The%20autocomplete%20attribute%20specifies%20whether,based%20on%20earlier%20typed%20values.)
+
+By correctly using autofill attributes on forms, users complete them up to 30% faster.
+(https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill)
+
 ## Q12 - Which attributes are always present in an img element?
 
 ## Q13 - Which attribute is always present for an anchor tag?
